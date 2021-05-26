@@ -3,7 +3,7 @@
 
 🏡 Living in Buenos Aires, Argentina.
    
-   I'm learning React
+:books: I'm learning React
 
 ---
 
