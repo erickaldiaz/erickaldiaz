@@ -1,5 +1,5 @@
 # Hii, humans and non-humans, I'm Ericka!🖖
-👩💻 Junior Front End Developer.
+👩💻 Front End Developer.
 
 🏡 Living in Buenos Aires, Argentina.
    
