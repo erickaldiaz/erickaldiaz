@@ -5,7 +5,7 @@
    
 :books: I'm learning React
 
-:dog: I have a Panchito
+:dog: I have two dogs: Panchito and Bonita
 
 ---
 
